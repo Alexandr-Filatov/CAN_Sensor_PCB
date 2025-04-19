@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Wire_my")(type "KiCad")(uri "${KIPRJMOD}/Lib/Wire_my.pretty")(options "")(descr ""))
+)
