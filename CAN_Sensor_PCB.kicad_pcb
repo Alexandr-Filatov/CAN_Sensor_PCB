@@ -17275,6 +17275,20 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "CAN Sensor VER1.0"
+		(at 160 156.25 0)
+		(layer "F.SilkS")
+		(uuid "6ceff3af-028d-4a13-9fdd-73e017f31ba8")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.16)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "+"
 		(at 191 151 0)
 		(layer "F.SilkS")
