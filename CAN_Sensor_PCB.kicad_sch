@@ -7955,7 +7955,7 @@
 				)
 			)
 		)
-		(property "Value" "LMV358"
+		(property "Value" "~"
 			(at 149.86 267.462 0)
 			(effects
 				(font
@@ -7988,6 +7988,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Product Name" "LM158DR"
+			(at 148.844 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -8200,7 +8208,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0bff5275-77c0-451c-aefd-7ee98ff379f5")
 		(property "Reference" "J5"
 			(at 107.95 255.27 0)
@@ -8210,7 +8218,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x04"
+		(property "Value" "~"
 			(at 107.95 254 0)
 			(effects
 				(font
@@ -8244,6 +8252,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Purpose" "PT2"
+			(at 107.95 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "4"
@@ -8340,7 +8356,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" "Blue LED"
+		(property "Description P/N" "LED"
 			(at 139.7 156.21 0)
 			(effects
 				(font
@@ -9096,6 +9112,15 @@
 				(hide yes)
 			)
 		)
+		(property "Product Name" "293D107X96R3B2TE3"
+			(at 334.01 142.875 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "66dd07ee-47e8-4668-8975-05d94f356e5f")
 		)
@@ -9185,7 +9210,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2df7af5e-739d-43f0-8248-15bbada288dc")
 		(property "Reference" "U5"
 			(at 90.17 234.95 90)
@@ -9195,7 +9219,7 @@
 				)
 			)
 		)
-		(property "Value" "LMV358"
+		(property "Value" "~"
 			(at 90.17 237.49 90)
 			(effects
 				(font
@@ -9228,6 +9252,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Product Name" "LM158DR"
+			(at 90.17 237.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -9682,7 +9714,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" "Yellow LED"
+		(property "Description P/N" "LED"
 			(at 355.6 140.97 0)
 			(effects
 				(font
@@ -10000,7 +10032,7 @@
 				)
 			)
 		)
-		(property "Value" "LMV358"
+		(property "Value" "~"
 			(at 64.77 266.7 0)
 			(effects
 				(font
@@ -10033,6 +10065,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Product Name" "LM158DR"
+			(at 63.5 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -12215,7 +12255,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "APM32F405RGT6"
+		(property "Value" "~"
 			(at 118.11 165.608 0)
 			(effects
 				(font
@@ -12250,6 +12290,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Product Name" "APM32F405RGT6"
+			(at 113.03 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "60"
@@ -13011,7 +13059,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MBRA320"
+		(property "Value" "~"
 			(at 327.66 143.891 90)
 			(effects
 				(font
@@ -13040,6 +13088,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 325.12 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Product Name" "MBRA320"
+			(at 325.12 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description P/N" "Diode"
 			(at 325.12 142.24 0)
 			(effects
 				(font
@@ -13115,6 +13181,15 @@
 				(hide yes)
 			)
 		)
+		(property "Product Name" "NLC453232T-470K-PF"
+			(at 328.93 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "071196d2-53d6-4e91-8bcf-352a0a068ec7")
 		)
@@ -13137,7 +13212,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8f0112b5-da59-401b-aa61-2e9183e36108")
 		(property "Reference" "J1"
 			(at 340.36 67.31 0)
@@ -13147,7 +13222,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x02"
+		(property "Value" "~"
 			(at 342.9 62.23 0)
 			(effects
 				(font
@@ -13181,6 +13256,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Purpose" "CAN"
+			(at 342.9 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -13337,7 +13420,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "99305ba1-bdfd-45be-87a2-3dca8348895f")
 		(property "Reference" "J3"
 			(at 269.24 142.24 0)
@@ -13347,7 +13430,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x02"
+		(property "Value" "~"
 			(at 271.78 137.16 0)
 			(effects
 				(font
@@ -13381,6 +13464,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Purpose" "PWR"
+			(at 271.78 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -15068,7 +15159,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" "Blue LED"
+		(property "Description P/N" "LED"
 			(at 146.05 156.21 0)
 			(effects
 				(font
@@ -15077,7 +15168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Product Name" "FYLS-0805UBC"
+		(property "Product Name" "FYLS-0805PGC"
 			(at 146.05 156.21 0)
 			(effects
 				(font
@@ -15622,7 +15713,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c67900f2-f138-4cdf-b164-e9a161bae8f8")
 		(property "Reference" "U2"
 			(at 311.15 128.27 0)
@@ -15632,7 +15722,7 @@
 				)
 			)
 		)
-		(property "Value" "LM2594HVM-3.3"
+		(property "Value" "~"
 			(at 311.15 130.81 0)
 			(effects
 				(font
@@ -15667,6 +15757,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Product Name" "LM2594HVM-3.3"
+			(at 311.15 131.826 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -16197,7 +16295,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "da207dac-2311-46db-a454-a0277a2c1d33")
 		(property "Reference" "J4"
 			(at 22.86 255.27 0)
@@ -16207,7 +16305,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x04"
+		(property "Value" "~"
 			(at 22.86 254 0)
 			(effects
 				(font
@@ -16241,6 +16339,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Purpose" "PT1"
+			(at 22.86 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "4"
