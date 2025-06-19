@@ -1199,7 +1199,7 @@
 				)
 			)
 		)
-		(property "Value" "LMV358"
+		(property "Value" "~"
 			(at 0 3.4 90)
 			(layer "F.Fab")
 			(uuid "2af7cd7c-cf89-4ab3-bd17-9ab90ebe122f")
@@ -1230,6 +1230,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Product Name" "LM158DR"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d778f0be-a222-4166-aba6-4c7a3873c22c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1471,7 +1484,7 @@
 				)
 			)
 		)
-		(property "Value" "APM32F405RGT6"
+		(property "Value" "~"
 			(at 0 7.4 135)
 			(layer "F.Fab")
 			(uuid "3d27db32-e011-40a9-bc60-05474b58915e")
@@ -1502,6 +1515,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Product Name" "APM32F405RGT6"
+			(at 0 0 135)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c8bcb5da-40dd-438f-9c67-f847ed6c3204")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3098,7 +3124,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x04"
+		(property "Value" "~"
 			(at 0 -4 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3136,11 +3162,24 @@
 				)
 			)
 		)
+		(property "Purpose" "PT2"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "78922ddf-b54e-4061-96ad-89c892ff6ede")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/0bff5275-77c0-451c-aefd-7ee98ff379f5")
 		(sheetname "/")
 		(sheetfile "CAN_Sensor_PCB.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_text user "${REFERENCE}"
 			(at 0 5 180)
 			(unlocked yes)
@@ -4428,7 +4467,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Blue LED"
+		(property "Description P/N" "LED"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4441,7 +4480,7 @@
 				)
 			)
 		)
-		(property "Product Name" "FYLS-0805UBC"
+		(property "Product Name" "FYLS-0805PGC"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6440,7 +6479,7 @@
 				)
 			)
 		)
-		(property "Value" "MBRA320"
+		(property "Value" "~"
 			(at 0 2.6 0)
 			(layer "F.Fab")
 			(uuid "1bbd5bf9-db5b-425f-b778-a994c0fc03b1")
@@ -6473,6 +6512,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Product Name" "MBRA320"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4fb08a07-7428-4dfd-906f-5c907405d829")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description P/N" "Diode"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "21bf73b4-aabd-4ce8-9380-d3f66e639c54")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7397,6 +7462,19 @@
 				)
 			)
 		)
+		(property "Product Name" "NLC453232T-470K-PF"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e88fe638-ff10-42c7-8500-904393b44428")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/8d6dfb05-73d7-4461-94a1-10a5c6b448c8")
 		(sheetname "/")
@@ -7873,7 +7951,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Yellow LED"
+		(property "Description P/N" "LED"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9516,7 +9594,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x02"
+		(property "Value" "~"
 			(at 0 -3 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9554,11 +9632,24 @@
 				)
 			)
 		)
+		(property "Purpose" "CAN"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "316b8ca1-6f30-4a4f-9cb5-9516306c90fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/8f0112b5-da59-401b-aa61-2e9183e36108")
 		(sheetname "/")
 		(sheetfile "CAN_Sensor_PCB.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_text user "${REFERENCE}"
 			(at 0 3 270)
 			(unlocked yes)
@@ -9863,7 +9954,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x02"
+		(property "Value" "~"
 			(at 0 -3 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9901,12 +9992,25 @@
 				)
 			)
 		)
+		(property "Purpose" "PWR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8a850231-dc8c-4e7c-b457-4a667368f46c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/99305ba1-bdfd-45be-87a2-3dca8348895f")
 		(sheetname "/")
 		(sheetfile "CAN_Sensor_PCB.kicad_sch")
 		(zone_connect 1)
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_text user "${REFERENCE}"
 			(at 0 3 0)
 			(unlocked yes)
@@ -10213,7 +10317,7 @@
 				)
 			)
 		)
-		(property "Value" "LM2594HVM-3.3"
+		(property "Value" "~"
 			(at 0 3.4 0)
 			(layer "F.Fab")
 			(uuid "a48a03ef-09a7-4e35-af8a-3aecde2c54a1")
@@ -10244,6 +10348,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Product Name" "LM2594HVM-3.3"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f16da366-25af-4bde-926c-44372b0299e1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -10548,7 +10665,7 @@
 				)
 			)
 		)
-		(property "Description P/N" "Blue LED"
+		(property "Description P/N" "LED"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12437,7 +12554,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x04"
+		(property "Value" "~"
 			(at 0 -4 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12475,11 +12592,24 @@
 				)
 			)
 		)
+		(property "Purpose" "PT1"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da867028-684f-42cb-9522-101aa6aced6c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/da207dac-2311-46db-a454-a0277a2c1d33")
 		(sheetname "/")
 		(sheetfile "CAN_Sensor_PCB.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_text user "${REFERENCE}"
 			(at 0 5 180)
 			(unlocked yes)
@@ -12837,6 +12967,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Product Name" "293D107X96R3B2TE3"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "122425fe-eb47-4c4c-837a-70e8e1c37baa")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
