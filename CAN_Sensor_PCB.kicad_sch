@@ -6,7 +6,6 @@
 	(paper "A3")
 	(title_block
 		(title "Плата датчика температуры CAN")
-		(company "ООО \"Электротранспортные технологии\"")
 		(comment 1 "НВЦТ.ДТН.0000.100 Э3")
 		(comment 2 "Филатов А.С.")
 		(comment 3 "Сизякин А.В.")
@@ -4846,7 +4845,7 @@
 	)
 	(text "Схема электрическая принципиальная"
 		(exclude_from_sim no)
-		(at 328.93 284.734 0)
+		(at 329.946 271.272 0)
 		(effects
 			(font
 				(size 2.5 2.5)
@@ -4864,6 +4863,16 @@
 			(justify left)
 		)
 		(uuid "430c32a6-755d-4175-8bb6-8caffb0caef6")
+	)
+	(text "ООО \"Электротранспортные"
+		(exclude_from_sim no)
+		(at 389.89 282.702 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+			)
+		)
+		(uuid "65aff150-ed1c-4663-a6b2-28f971a65a79")
 	)
 	(text "R9 = 160 Ом\n"
 		(exclude_from_sim no)
@@ -4961,6 +4970,16 @@
 		)
 		(uuid "b8661b58-f0cc-47db-93ba-4b8f6a67dd73")
 	)
+	(text "технологии\""
+		(exclude_from_sim no)
+		(at 389.89 287.02 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+			)
+		)
+		(uuid "bd300e6d-5461-4eee-ae93-1d0294d75542")
+	)
 	(text "R11, R15 = 10k"
 		(exclude_from_sim no)
 		(at 57.658 217.932 0)
@@ -5016,6 +5035,16 @@
 			(justify left)
 		)
 		(uuid "ec3bfc12-edfc-4b9b-a9cc-032d668930bb")
+	)
+	(text "1. Перечень элементов см. НВЦТ.ДТН.0000.100 ПЭ3."
+		(exclude_from_sim no)
+		(at 282.702 213.106 0)
+		(effects
+			(font
+				(size 3.5 3.5)
+			)
+		)
+		(uuid "ec65755e-4c76-4b45-b059-127affa22f04")
 	)
 	(text "При PT1000"
 		(exclude_from_sim no)
