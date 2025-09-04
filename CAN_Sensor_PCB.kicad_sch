@@ -4789,7 +4789,7 @@
 		)
 		(uuid ebe9ed42-b668-49de-bffb-34e088f84d49)
 	)
-	(text "Кус = 5.1"
+	(text "Кус = 49.9"
 		(exclude_from_sim no)
 		(at 142.748 221.996 0)
 		(effects
@@ -4811,7 +4811,7 @@
 		)
 		(uuid "24bdbcf7-9105-4ecf-aa8a-b85405c29243")
 	)
-	(text "R10, R12, R16, R18 = 1k"
+	(text "R12, R16 = 100k, 0.1%"
 		(exclude_from_sim no)
 		(at 121.412 217.932 0)
 		(effects
@@ -4832,7 +4832,7 @@
 		)
 		(uuid "324821d4-f57f-473d-842f-dbfd46ad7b1b")
 	)
-	(text "R7 = 160 Ом\n"
+	(text "R7 = 16 кОм, 0.1%\n"
 		(exclude_from_sim no)
 		(at 36.322 215.9 0)
 		(effects
@@ -4853,7 +4853,7 @@
 		)
 		(uuid "37ff15fe-5c2b-48d1-942e-0c6dff47756e")
 	)
-	(text "R8, R17 = 51k"
+	(text "R8, R17 = 499k, 0.1%"
 		(exclude_from_sim no)
 		(at 57.658 219.964 0)
 		(effects
@@ -4863,6 +4863,17 @@
 			(justify left)
 		)
 		(uuid "430c32a6-755d-4175-8bb6-8caffb0caef6")
+	)
+	(text "R10, R18 = 1M, 0.1%"
+		(exclude_from_sim no)
+		(at 121.412 219.964 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5a1e164b-42ea-4101-a83f-1c8372e3ec68")
 	)
 	(text "ООО \"Электротранспортные"
 		(exclude_from_sim no)
@@ -4874,7 +4885,7 @@
 		)
 		(uuid "65aff150-ed1c-4663-a6b2-28f971a65a79")
 	)
-	(text "R9 = 160 Ом\n"
+	(text "R9 = 16 кОм, 0.1%\n"
 		(exclude_from_sim no)
 		(at 121.412 215.9 0)
 		(effects
@@ -4898,7 +4909,7 @@
 		)
 		(uuid "6f1f240f-5dfd-4219-ac3e-e7202fc32133")
 	)
-	(text "R12, R16 = 1k"
+	(text "R12, R16 = 10k, 0.1%"
 		(exclude_from_sim no)
 		(at 142.748 217.932 0)
 		(effects
@@ -4921,6 +4932,17 @@
 			(justify left bottom)
 		)
 		(uuid "7561c787-4752-4484-9622-d09f9a5b821f")
+	)
+	(text "R8, R17 = 1M, 0.1%"
+		(exclude_from_sim no)
+		(at 36.322 219.964 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "81e164c7-b165-4031-b342-d636d94699c4")
 	)
 	(text "Температура 1"
 		(exclude_from_sim no)
@@ -4948,7 +4970,7 @@
 		)
 		(uuid "abec66a9-c98a-4f06-a492-77fb7ba25392")
 	)
-	(text "R7 = 1 кОм\n"
+	(text "R7 = 10 кОм, 0.1%\n"
 		(exclude_from_sim no)
 		(at 57.658 215.9 0)
 		(effects
@@ -4959,7 +4981,7 @@
 		)
 		(uuid "ae4d5af8-675c-47f3-820f-4f1d7dffa854")
 	)
-	(text "R9 = 1 кОм\n"
+	(text "R9 = 10 кОм, 0.1%\n"
 		(exclude_from_sim no)
 		(at 142.748 215.9 0)
 		(effects
@@ -4980,7 +5002,7 @@
 		)
 		(uuid "bd300e6d-5461-4eee-ae93-1d0294d75542")
 	)
-	(text "R11, R15 = 10k"
+	(text "R11, R15 = 10k, 0.1%"
 		(exclude_from_sim no)
 		(at 57.658 217.932 0)
 		(effects
@@ -5025,9 +5047,9 @@
 		)
 		(uuid "dd170191-8b24-46af-892f-662bd77fc0a9")
 	)
-	(text "Кус = 1"
+	(text "Кус = 10"
 		(exclude_from_sim no)
-		(at 121.412 219.964 0)
+		(at 121.412 221.996 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5057,7 +5079,7 @@
 		)
 		(uuid "ec93127a-a012-4b56-a678-fa7cd457adcb")
 	)
-	(text "R10, R18 = 51k"
+	(text "R10, R18 = 499k, 0.1%"
 		(exclude_from_sim no)
 		(at 142.748 219.964 0)
 		(effects
@@ -5068,7 +5090,7 @@
 		)
 		(uuid "f41be809-a17c-432e-8321-4f84f3f13a5b")
 	)
-	(text "R8, R11, R15, R17 = 1k"
+	(text "R11, R15= 100k, 0.1%"
 		(exclude_from_sim no)
 		(at 36.322 217.932 0)
 		(effects
@@ -5079,7 +5101,7 @@
 		)
 		(uuid "fd045c89-6a8c-4938-bde8-039d2c8eaae6")
 	)
-	(text "Кус = 5.1"
+	(text "Кус = 49.9"
 		(exclude_from_sim no)
 		(at 57.658 221.996 0)
 		(effects
@@ -5090,9 +5112,9 @@
 		)
 		(uuid "fdb581c8-fb12-4807-afbc-a42eee250744")
 	)
-	(text "Кус = 1"
+	(text "Кус = 10"
 		(exclude_from_sim no)
-		(at 36.322 219.964 0)
+		(at 36.322 221.996 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8056,6 +8078,15 @@
 				)
 			)
 		)
+		(property "Description P/N" "OpAmp"
+			(at 166.37 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5c5c3240-6211-4a38-ae64-d0216ce9b061")
 		)
@@ -8161,7 +8192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 68.58 236.22 0)
 			(effects
 				(font
@@ -8318,6 +8349,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Description P/N" "Connector"
+			(at 124.46 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
@@ -8565,6 +8605,15 @@
 				(hide yes)
 			)
 		)
+		(property "Description P/N" "Resistor SMD"
+			(at 95.25 241.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "94a11e1d-8ffe-460b-8f76-a5cad3df6c89")
 		)
@@ -8652,7 +8701,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 223.52 99.06 0)
 			(effects
 				(font
@@ -8757,7 +8806,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 57.15 97.155 0)
 			(effects
 				(font
@@ -9179,6 +9228,15 @@
 				(hide yes)
 			)
 		)
+		(property "Description P/N" "Tantalum Capacitor"
+			(at 278.13 149.225 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "66dd07ee-47e8-4668-8975-05d94f356e5f")
 		)
@@ -9318,6 +9376,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Description P/N" "OpAmp"
+			(at 106.68 217.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -9666,7 +9733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 193.04 153.67 0)
 			(effects
 				(font
@@ -9925,6 +9992,15 @@
 				(hide yes)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 10V+"
+			(at 99.06 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "64fb1da9-1142-43aa-9ffc-831dc25db10f")
 		)
@@ -10133,6 +10209,15 @@
 				)
 			)
 		)
+		(property "Description P/N" "OpAmp"
+			(at 81.28 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5c5c3240-6211-4a38-ae64-d0216ce9b063")
 		)
@@ -10304,7 +10389,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 260.35 99.06 0)
 			(effects
 				(font
@@ -10474,7 +10559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 106.68 226.06 0)
 			(effects
 				(font
@@ -10766,7 +10851,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 193.04 133.35 0)
 			(effects
 				(font
@@ -11113,7 +11198,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 153.67 247.65 0)
 			(effects
 				(font
@@ -11549,7 +11634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 182.88 113.03 0)
 			(effects
 				(font
@@ -11636,6 +11721,15 @@
 				(hide yes)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 50V+"
+			(at 284.48 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "808619bc-00f8-4d49-8fd4-ba92178a264e")
 		)
@@ -11669,13 +11763,12 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
-			(at 136.652 240.03 90)
+		(property "Value" "100k"
+			(at 136.144 240.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
@@ -11698,6 +11791,15 @@
 		)
 		(property "Description" ""
 			(at 135.89 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description P/N" "Resistor SMD 0.1%"
+			(at 135.89 240.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11839,6 +11941,15 @@
 				(hide yes)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 50V+"
+			(at 238.76 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6e6080f0-5c74-4d8d-82df-0b0fa4c62bbb")
 		)
@@ -11872,7 +11983,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1M"
 			(at 147.32 236.22 0)
 			(effects
 				(font
@@ -11900,6 +12011,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 146.05 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description P/N" "Resistor SMD 0.1%"
 			(at 146.05 234.95 0)
 			(effects
 				(font
@@ -12126,7 +12246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 182.88 133.35 0)
 			(effects
 				(font
@@ -12177,7 +12297,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1M"
 			(at 62.23 236.22 0)
 			(effects
 				(font
@@ -12205,6 +12325,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 60.96 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description P/N" "Resistor SMD 0.1%"
 			(at 60.96 234.95 0)
 			(effects
 				(font
@@ -12245,8 +12374,8 @@
 				)
 			)
 		)
-		(property "Value" "1k"
-			(at 148.844 248.92 0)
+		(property "Value" "1M"
+			(at 148.336 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12272,6 +12401,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 146.05 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description P/N" "Resistor SMD 0.1%"
 			(at 146.05 247.65 0)
 			(effects
 				(font
@@ -12356,6 +12494,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Description P/N" "uController"
+			(at 113.03 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "60"
@@ -12632,7 +12779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 182.88 153.67 0)
 			(effects
 				(font
@@ -12910,6 +13057,15 @@
 				(hide yes)
 			)
 		)
+		(property "Description P/N" "Capacitor SMD 10V+"
+			(at 184.15 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e8dae056-7c09-4ddd-b535-8425580340a5")
 		)
@@ -12997,7 +13153,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 234.95 86.36 0)
 			(effects
 				(font
@@ -13048,7 +13204,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "160"
+		(property "Value" "16k"
 			(at 45.72 235.966 0)
 			(effects
 				(font
@@ -13076,6 +13232,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 44.45 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description P/N" "Resistor SMD 0.1%"
 			(at 44.45 234.95 0)
 			(effects
 				(font
@@ -13248,6 +13413,15 @@
 				(hide yes)
 			)
 		)
+		(property "Description P/N" "Inductor SMD"
+			(at 273.05 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "071196d2-53d6-4e91-8bcf-352a0a068ec7")
 		)
@@ -13322,6 +13496,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Description P/N" "Connector"
+			(at 280.67 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -13530,6 +13713,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Description P/N" "Connector"
+			(at 215.9 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -13750,7 +13942,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 146.05 161.29 0)
 			(effects
 				(font
@@ -14052,7 +14244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 82.55 151.13 0)
 			(effects
 				(font
@@ -14157,7 +14349,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 68.58 247.65 0)
 			(effects
 				(font
@@ -14328,7 +14520,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 193.04 92.71 0)
 			(effects
 				(font
@@ -14498,7 +14690,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 260.35 104.14 0)
 			(effects
 				(font
@@ -14615,8 +14807,8 @@
 				)
 			)
 		)
-		(property "Value" "1k"
-			(at 63.754 248.92 0)
+		(property "Value" "1M"
+			(at 63.246 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14642,6 +14834,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 60.96 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description P/N" "Resistor SMD 0.1%"
 			(at 60.96 247.65 0)
 			(effects
 				(font
@@ -14711,6 +14912,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 232.41 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description P/N" "Capacitor SMD 50V+"
 			(at 232.41 147.32 0)
 			(effects
 				(font
@@ -14871,7 +15081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 80.01 72.39 0)
 			(effects
 				(font
@@ -14987,13 +15197,12 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
-			(at 51.562 242.57 90)
+		(property "Value" "100k"
+			(at 51.054 242.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
@@ -15016,6 +15225,15 @@
 		)
 		(property "Description" ""
 			(at 50.8 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description P/N" "Resistor SMD 0.1%"
+			(at 50.8 242.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15111,7 +15329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 182.88 92.71 0)
 			(effects
 				(font
@@ -15322,7 +15540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 260.35 93.98 0)
 			(effects
 				(font
@@ -15427,7 +15645,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 299.72 152.4 0)
 			(effects
 				(font
@@ -15730,7 +15948,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 231.14 99.06 0)
 			(effects
 				(font
@@ -15823,6 +16041,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Description P/N" "DCDC"
+			(at 255.27 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -15930,7 +16157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 57.15 80.645 0)
 			(effects
 				(font
@@ -16035,7 +16262,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 139.7 161.29 0)
 			(effects
 				(font
@@ -16140,7 +16367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 90.17 151.13 0)
 			(effects
 				(font
@@ -16245,7 +16472,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 153.67 236.22 0)
 			(effects
 				(font
@@ -16331,6 +16558,15 @@
 				(hide yes)
 			)
 		)
+		(property "Description P/N" "Resistor SMD"
+			(at 180.34 241.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8f44d0f7-94f7-4309-8bef-62d09929beca")
 		)
@@ -16407,6 +16643,15 @@
 				)
 			)
 		)
+		(property "Description P/N" "Connector"
+			(at 39.37 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "a131119d-f57a-4077-a4c3-1b8a3133b785")
 		)
@@ -16446,13 +16691,12 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
-			(at 136.652 242.57 90)
+		(property "Value" "100k"
+			(at 136.144 242.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
@@ -16475,6 +16719,15 @@
 		)
 		(property "Description" ""
 			(at 135.89 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description P/N" "Resistor SMD 0.1%"
+			(at 135.89 242.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16515,7 +16768,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "160"
+		(property "Value" "16k"
 			(at 130.81 235.966 0)
 			(effects
 				(font
@@ -16543,6 +16796,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 129.54 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description P/N" "Resistor SMD 0.1%"
 			(at 129.54 234.95 0)
 			(effects
 				(font
@@ -16771,7 +17033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Capacitor SMD 10V+"
 			(at 193.04 113.03 0)
 			(effects
 				(font
@@ -16822,13 +17084,12 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
-			(at 51.562 240.03 90)
+		(property "Value" "100k"
+			(at 51.054 240.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
@@ -16851,6 +17112,15 @@
 		)
 		(property "Description" ""
 			(at 50.8 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description P/N" "Resistor SMD 0.1%"
+			(at 50.8 240.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17010,7 +17280,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description P/N" ""
+		(property "Description P/N" "Resistor SMD"
 			(at 88.9 72.39 0)
 			(effects
 				(font

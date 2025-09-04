@@ -547,6 +547,24 @@
         },
         {
           "group_by": true,
+          "label": "Product Name",
+          "name": "Product Name",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Replacement",
+          "name": "Replacement",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description P/N",
+          "name": "Description P/N",
+          "show": true
+        },
+        {
+          "group_by": true,
           "label": "Footprint",
           "name": "Footprint",
           "show": true
@@ -577,27 +595,9 @@
         },
         {
           "group_by": false,
-          "label": "Description P/N",
-          "name": "Description P/N",
-          "show": true
-        },
-        {
-          "group_by": true,
-          "label": "Product Name",
-          "name": "Product Name",
-          "show": true
-        },
-        {
-          "group_by": true,
           "label": "Purpose",
           "name": "Purpose",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "Replacement",
-          "name": "Replacement",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
